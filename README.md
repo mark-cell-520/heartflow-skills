@@ -1,3 +1,15 @@
+> ## ⚠️ 本项目已更名为 Aspira（新愿），此仓库停止维护
+>
+> **2026-09-21 起，HeartFlow（心虫）正式更名为 Aspira（新愿），架构已解耦并迁入新仓库：
+> 👉 https://github.com/mark-cell-520/aspira**
+>
+> - 新仓库是唯一权威源，后续所有更新、issue、PR 均在新仓库进行
+> - 本仓库保留仅为历史索引与旧版本引用，不再接收任何更新
+> - 本地部署：权威源 `~/aspira`，`.claude/skills/aspira`、`.hermes/skills/aspira`、`.hermes/src` 为符号链接
+> - 兼容层：`src/core/heartflow.js` 文件名、`heartflow` 变量/方法名、`HEARTFLOW_*` 环境变量按原样保留，旧调用方无需改动
+
+---
+
 # HeartFlow (心虫)
 
 **AGI Layer 1 — the Discriminator.**
